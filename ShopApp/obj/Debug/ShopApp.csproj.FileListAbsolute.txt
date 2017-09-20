@@ -1,0 +1,6 @@
+E:\c#2017\ShopApp\ShopApp\ShopApp\bin\ShopApp.dll.config
+E:\c#2017\ShopApp\ShopApp\ShopApp\bin\ShopApp.dll
+E:\c#2017\ShopApp\ShopApp\ShopApp\bin\ShopApp.pdb
+E:\c#2017\ShopApp\ShopApp\ShopApp\obj\Debug\ShopApp.csprojResolveAssemblyReference.cache
+E:\c#2017\ShopApp\ShopApp\ShopApp\obj\Debug\ShopApp.dll
+E:\c#2017\ShopApp\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
